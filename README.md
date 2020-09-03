@@ -1,1 +1,1 @@
-# SoftwareEngineeringProject-LoanApprovalPrediction-7th-Sem
+LoanApprovalPrediction-7th-Sem
